@@ -1,0 +1,100 @@
+No,Golongan Obat,Nama Obat,Kode ATC,Rute pemberian,Dosis (gram) ,Interval Pemberian (x/hari),Lama pemberian,DDD WHO 
+1,Antidiabetes,Insulin Aspart,A10AB05,P,4,2,3,40
+1,Antidiabetes,Metformin,A10BA02,O,0.5,3,3,2
+1,Antidiabetes,Gliclazide,A10BB09,O,80,1,3,60
+2,Antidiabetes,Pioglitazone,A10BG03,O,30,1,4,30
+3,Antidiabetes,Insulin Glargine ,A10AE04,P,20,1,6,40
+3,Antidiabetes,Trajenta (Linagliptin),A10BH05,O,5,1,1,5
+4,Antidiabetes,Tresiba,A10AE06,P,6,1,17,40
+4,Antidiabetes,Metformin,A10BA02,O,0.5,2,5,2
+4,Antidiabetes,Metformin,A10BA02,O,0.5,1,2,2
+4,Antidiabetes,Trajenta Duo (Linagliptin dan Metformin),A10BD11,O,2.5mg/500mg,2,19,TIDAK ADA DDD WHO
+5,Antidiabetes,Insulin Aspart,A10AB05,P,10,2,1,40
+5,Antidiabetes,Insulin Glargine ,A10AE04,P,16,1,3,40
+5,Antidiabetes,Velacom plus (Metformin dan Sulfonilurea),A10BD02,O,2/500mg,1,3,TIDAK ADA DDD WHO
+5,Antidiabetes,Trajenta Duo (Linagliptin dan Metformin),A10BD11,O,2.5mg/500mg,1,1,TIDAK ADA DDD WHO
+5,Antidiabetes,Dapagliflozin,A10BK01,O,10,1,4,10
+6,Antidiabetes,Insulin Aspart,A10AB05,P,10,3,5,40
+6,Antidiabetes,Insulin Detemir,A10AE05,P,6,1,5,40
+7,Antidiabetes,Metformin,A10BA02,O,0.5,2,8,2
+7,Antidiabetes,pioglitazon ,A10BG03,O,30,1,5,30
+8,Antidiabetes,Insulin Aspart,A10AB05,P,6,3,1,40
+8,Antidiabetes,Insulin Aspart,A10AB05,P,8,3,2,40
+8,Antidiabetes,Insulin Glargine,A10AE04,P,6,1,2,40
+9,Antidiabetes,Insulin Aspart,A10AB05,P,8,3,3,40
+9,Antidiabetes,Insulin Detemir,A10AE05,P,8,1,3,40
+10,Antidiabetes,Insulin Aspart,A10AB05,P,8,1,1,40
+11,Antidiabetes,Insulin Aspart,A10AB05,P,12,3,4,40
+11,Antidiabetes,Insulin Detemir,A10AE05,P,14,1,5,40
+12,Antidiabetes,Insulin Aspart,A10AB05,P,8,3,5,40
+12,Antidiabetes,Insulin Glargine,A10AE04,P,10,1,5,40
+13,Antidiabetes,Insulin Aspart,A10AB05,P,4,3,4,40
+13,Antidiabetes,Insulin Glargine,A10AE04,P,10,1,4,40
+14,Antidiabetes,Trajenta (Linagliptin),A10BH05,O,5,1,1,5
+15,Antidiabetes,Insulin Aspart,A10AB05,P,6,3,6,40
+15,Antidiabetes,Insulin Aspart pum,A10AB05,P,6,1,3,40
+15,Antidiabetes,Insulin Glargine,A10AE04,P,10,1,8,40
+16,Antidiabetes,Metformin,A10BA02,O,0.5,1,1,2
+16,Antidiabetes,Glimepiride ,A10BB12,O,4,1,3,2
+17,Antidiabetes,Insulin Aspart,A10AB05,P,6,3,5,40
+17,Antidiabetes,Insulin Detemir,A10AE05,P,18,2,3,40
+18,Antidiabetes,Insulin Aspart,A10AB05,P,22,3,14,40
+18,Antidiabetes,Insulin Detemir,A10AE05,P,8,1,13,40
+19,Antidiabetes,Trajenta (Linagliptin),A10BH05,O,5,1,6,5
+20,Antidiabetes,Insulin Aspart,A10AB05,P,12,3,8,40
+20,Antidiabetes,Insulin Glargine,A10AE04,P,8,1,6,40
+21,Antidiabetes,Insulin Aspart,A10AB05,P,22,1,4,40
+21,Antidiabetes,Insulin Detemir,A10AE05,P,8,1,3,40
+22,Antidiabetes,Insulin Aspart,A10AB05,P,6,3,2,40
+22,Antidiabetes,Insulin Detemir,A10AE05,P,8,1,2,40
+23,Antidiabetes,Insulin Aspart,A10AB05,P,6,3,1,40
+23,Antidiabetes,Insulin Glargine,A10AE04,P,10,1,1,40
+24,Antidiabetes,Insulin Glulisine  ,A10AB06,P,6,3,1,40
+24,Antidiabetes,Glimepiride ,A10BB12,O,3,1,2,2
+25,Antidiabetes,Insulin Aspart,A10AB05,P,8,3,4,40
+26,Antidiabetes,Trajenta (Linagliptin),A10BH05,O,5,1,4,5
+28,Antidiabetes,Insulin Aspart,A10AB05,P,4,3,4,40
+29,Antidiabetes,Insulin Aspart,A10AB05,P,4,3,1,40
+29,Antidiabetes,Insulin Glargine,A10AE04,P,28,2,3,40
+30,Antidiabetes,Insulin Aspart,A10AB05,P,22,1,2,40
+30,Antidiabetes,Insulin Detemir,A10AE05,P,8,1,1,40
+31,Antidiabetes,Insulin Aspart,A10AB05,P,10,3,4,40
+31,Antidiabetes,Insulin Detemir,A10AE05,P,18,1,2,40
+31,Antidiabetes,Insulin Detemir,A10AE05,P,10,1,2,40
+33,antidiabetes,Insulin Aspart,A10AB05,P,22,1,3,40
+33,Antidiabetes,Insulin Detemir,A10AE05,P,8,1,2,40
+34,antidiabetes,Metformin,A10BA02,O,0.5,3,4,2
+34,antidiabetes,Glimepiride ,A10BB12,O,4,1,5,2
+34,antidiabetes,Pioglitazone,A10BG03,O,30,1,4,30
+35,Antidiabetes,Insulin Aspart,A10AB05,P,4,3,9,40
+35,Antidiabetes,Insulin Glargine,A10AE04,P,12,1,8,40
+35,Antidiabetes,Gliclazide,A10BB09,O,60,1,9,60
+36,Antidiabetes,Insulin Glulisine ,A10AB06,P,6,3,3,40
+37,Antidiabetes,Insulin Aspart,A10AB05,P,16,3,11,40
+37,Antidiabetes,Insulin Glargine,A10AE04,P,16,1,7,40
+37,Antidiabetes,Dapagliflozin,A10BK01,O,10,1,10,10
+38,Antidiabetes,Insulin Glulisine ,A10AB06,P,8,3,5,40
+38,Antidiabetes,Insulin Glargine,A10AE04,P,14,1,5,40
+39,Antidiabetes,Insulin Aspart ,A10AB05,P,8,3,3,40
+40,Antidiabetes,Insulin Aspart,A10AB05,P,8,2,1,40
+40,Antidiabetes,Insulin Aspart,A10AB05,P,6,3,1,40
+40,Antidiabetes,Insulin Glargine,A10AE04,P,12,1,2,40
+40,Antidiabetes,Insulin Glargine,A10AE04,P,14,1,3,40
+40,Antidiabetes,metformin ,A10BA02,O,0.5,3,6,2
+41,Antidiabetes,Insulin Glulisine,A10AB06,P,8,3,1,40
+41,Antidiabetes,Insulin Glulisine,A10AB06,P,6,3,5,40
+42,Antidiabetes,Insulin Aspart ,A10AB05,P,16,3,6,40
+42,Antidiabetes,Insulin Glargine,A10AE04,P,26,1,7,40
+43,Antidiabetes,Insulin Aspart ,A10AB05,P,10,1,1,40
+43,Antidiabetes,Insulin Aspart ,A10AB05,P,10,3,1,40
+43,Antidiabetes,Pioglitazone,A10BG03,O,30,1,3,30
+44,Antidiabetes,Insulin Aspart ,A10AB05,P,10,2,4,40
+44,Antidiabetes,Insulin Detemir,A10AE05,P,10,1,3,40
+45,Antidiabetes,Insulin Aspart,A10AB05,P,4,3,2,40
+45,Antidiabetes,Insulin Aspart,A10AB05,P,7,3,8,40
+45,Antidiabetes,Insulin Aspart,A10AB05,P,6,3,1,40
+45,Antidiabetes,Insulin Aspart,A10AB05,P,8,3,1,40
+45,antidiabetes,Empagliflozin,A10BK03,O,25,1,8,17.5
+47,Antidiabetes,Insulin Aspart,A10AB05,P,8,2,6,40
+48,Antidiabetes,Insulin Aspart ,A10AB05,P,18,2,3,40
+48,Antidiabetes,Insulin Aspart ,A10AB05,P,12,2,3,40
